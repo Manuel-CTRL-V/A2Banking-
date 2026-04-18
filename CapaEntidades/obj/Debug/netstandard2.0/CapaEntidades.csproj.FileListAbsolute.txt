@@ -1,0 +1,3 @@
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache

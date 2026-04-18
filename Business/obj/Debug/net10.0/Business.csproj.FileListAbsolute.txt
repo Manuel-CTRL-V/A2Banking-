@@ -1,0 +1,83 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\Business\obj\Debug\net10.0\ref\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\Business\obj\Debug\net10.0\ref\Business.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\ref\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\net10.0\ref\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\Business\obj\Debug\net10.0\ref\Business.dll

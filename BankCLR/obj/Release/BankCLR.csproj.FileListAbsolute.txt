@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\bin\Release\BankCLR.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\bin\Release\BankCLR.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\obj\Release\BankCLR.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\obj\Release\BankCLR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\obj\Release\BankCLR.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Practicando para aprender PU\BankCLR\obj\Release\BankCLR.pdb

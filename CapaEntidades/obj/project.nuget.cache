@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hmR6m0G/TY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\Proyecto-final-Arq---Bank-ATM---copia-master\\CapaEntidades\\CapaEntidades.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se puede leer la información del proyecto de \"CapaEntidades\": Identificador de marco de trabajo no válido \"\".",
+      "projectPath": "C:\\Users\\User\\Downloads\\Proyecto-final-Arq---Bank-ATM---copia-master\\CapaEntidades\\CapaEntidades.csproj",
+      "filePath": "C:\\Users\\User\\Downloads\\Proyecto-final-Arq---Bank-ATM---copia-master\\CapaEntidades\\CapaEntidades.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

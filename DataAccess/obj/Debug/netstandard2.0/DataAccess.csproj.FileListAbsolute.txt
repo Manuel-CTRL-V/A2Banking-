@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

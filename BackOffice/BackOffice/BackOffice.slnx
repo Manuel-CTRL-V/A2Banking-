@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../CapaEntidades/CapaEntidades.csproj" Id="a6dfb834-8d53-496c-8e1a-f60d909bc0e7" />
+  <Project Path="../CBusiness/CBusiness.csproj" Id="2bbc0fd6-86ad-46ac-a747-b20046786db4" />
+  <Project Path="../CServices/CServices.csproj" Id="81ec5b49-8377-4358-aa26-9b185ce6dcdd" />
+  <Project Path="BackOffice.csproj" Id="741fe18d-4601-4d8c-a36d-1bdabdd0e362" />
+</Solution>

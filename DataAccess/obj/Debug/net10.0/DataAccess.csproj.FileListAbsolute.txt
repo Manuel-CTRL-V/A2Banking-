@@ -1,0 +1,73 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.Up2Date
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\bin\Debug\net10.0\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\bin\Debug\net10.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll

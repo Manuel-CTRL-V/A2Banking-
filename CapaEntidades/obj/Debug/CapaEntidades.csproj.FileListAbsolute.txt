@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\CapaEntidades\obj\Debug\CapaEntidades.pdb

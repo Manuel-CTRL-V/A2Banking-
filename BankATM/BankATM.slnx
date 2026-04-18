@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../CapaDatos/CapaDatos.csproj" Id="4143051a-990b-40d8-ad02-36bbfb9b2106" />
+  <Project Path="../CapaEntidades/CapaEntidades.csproj" Id="a6dfb834-8d53-496c-8e1a-f60d909bc0e7" />
+  <Project Path="../CapaNegocio/CapaNegocio.csproj" Id="3b692d37-c69b-4e83-95c0-97efc3ed525d" />
+  <Project Path="BankATM.csproj" Id="d4afde21-97d8-41a6-bf95-fa24bd973860" />
+</Solution>

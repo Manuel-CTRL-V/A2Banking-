@@ -1,0 +1,194 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.BalanceForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.BiometricForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.DepositForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.LoginForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.MainMenuForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.PinForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.ResultForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.TransferForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.WithdrawForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Properties.Resources.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\BankATM.exe
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\BankATM.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.exe
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.FormPrueba.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\bin\Debug\DPFPGuiNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BankATM\obj\Debug\BankATM.Forms.ChangePinForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.BalanceForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.BiometricForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.ChangePinForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.DepositForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.FormPrueba.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.LoginForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.MainMenuForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.PinForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.ResultForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.TransferForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Forms.WithdrawForm.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.Properties.Resources.resources
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.exe
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\BankATM.exe
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\BankATM.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPGuiNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BankATM\obj\Debug\BankATM.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\BankATM.exe
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\BankATM.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPGuiNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Resources.Extensions.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\System.Resources.Extensions.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.BalanceForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.BiometricForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.ChangePinForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.DepositForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.FormPrueba.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.LoginForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.MainMenuForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.PinForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.ResultForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.SettingsForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.TransferForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Forms.WithdrawForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.Properties.Resources.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.exe
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BankATM\obj\Debug\BankATM.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.exe
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\BankATM.exe
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\BankATM.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPGuiNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\Krypton.Toolkit.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Resources.Extensions.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\Krypton.Toolkit.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\System.Resources.Extensions.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.exe.config
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.BalanceForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.BiometricForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.ChangePinForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.DepositForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.FormPrueba.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.LoginForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.MainMenuForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.PinForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.ResultForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.SettingsForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.TransferForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Forms.WithdrawForm.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.Properties.Resources.resources
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---A2Banking--\BankATM\obj\Debug\BankATM.csproj.Up2Date

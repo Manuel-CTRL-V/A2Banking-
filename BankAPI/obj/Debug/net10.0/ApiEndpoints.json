@@ -1,0 +1,469 @@
+[
+  {
+    "ContainingType": "BankAPI.Controllers.AuthController",
+    "Method": "CloseSession",
+    "RelativePath": "api/auth/close-session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Auth.CloseSessionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AuthController",
+    "Method": "CreateSession",
+    "RelativePath": "api/auth/create-session",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Auth.CreateSessionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AuthController",
+    "Method": "Start",
+    "RelativePath": "api/auth/start/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AuthController",
+    "Method": "VerifyPin",
+    "RelativePath": "api/auth/verify-pin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Auth.VerifyPinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "GetAccounts",
+    "RelativePath": "api/backoffice/accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/backoffice/accounts/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.CreateAccountRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "adminId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "EnrollBiometric",
+    "RelativePath": "api/backoffice/accounts/enroll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.EnrollBiometricRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "adminId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/backoffice/accounts/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.UpdateAccountStatusRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "adminId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "AdminLogin",
+    "RelativePath": "api/backoffice/admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.AdminLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "GetAdminSalt",
+    "RelativePath": "api/backoffice/admin/salt/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "SearchCharacters",
+    "RelativePath": "api/backoffice/characters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "GetLogs",
+    "RelativePath": "api/backoffice/logs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.AuditLogRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.AccountManagementController",
+    "Method": "GetStatistics",
+    "RelativePath": "api/backoffice/statistics",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.BackOffice.StatisticsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "GetRoles",
+    "RelativePath": "api/maintenance/roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "CreateRole",
+    "RelativePath": "api/maintenance/roles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Maintenance.CreateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/maintenance/roles",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Maintenance.UpdateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/maintenance/roles/{roleId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "GetAdminUsers",
+    "RelativePath": "api/maintenance/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "CreateAdminUser",
+    "RelativePath": "api/maintenance/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Maintenance.CreateAdminUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "UpdateAdminUser",
+    "RelativePath": "api/maintenance/users",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Maintenance.UpdateAdminUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.MaintenanceController",
+    "Method": "DeleteAdminUser",
+    "RelativePath": "api/maintenance/users/{adminId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.NotificationController",
+    "Method": "SaveSettings",
+    "RelativePath": "api/notifications/settings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Notifications.NotificationSettingsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.NotificationController",
+    "Method": "GetSettings",
+    "RelativePath": "api/notifications/settings/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "GetBalance",
+    "RelativePath": "api/transactions/balance/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "ChangePin",
+    "RelativePath": "api/transactions/change-pin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Transactions.ChangePinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "Deposit",
+    "RelativePath": "api/transactions/deposit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Transactions.DepositRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "GetHistory",
+    "RelativePath": "api/transactions/history",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Transactions.TransactionHistoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "Transfer",
+    "RelativePath": "api/transactions/transfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Transactions.TransferRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAPI.Controllers.TransactionController",
+    "Method": "Withdraw",
+    "RelativePath": "api/transactions/withdraw",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ATM.Shared.DTOs.Transactions.WithdrawRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

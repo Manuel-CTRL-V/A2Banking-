@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\obj\Debug\CServices.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\obj\Debug\CServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\obj\Debug\CServices.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\obj\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CServices\obj\Debug\CServices.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\obj\Debug\CServices.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\obj\Debug\CServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\obj\Debug\CServices.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\obj\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CServices\obj\Debug\CServices.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\obj\Debug\CServices.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\obj\Debug\CServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\obj\Debug\CServices.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\obj\Debug\CServices.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CServices\obj\Debug\CServices.pdb

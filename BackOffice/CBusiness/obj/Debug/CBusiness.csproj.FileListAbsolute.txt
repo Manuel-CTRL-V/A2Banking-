@@ -1,0 +1,54 @@
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CBusiness.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CBusiness.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\obj\Debug\CBusiness.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM\BackOffice\CBusiness\obj\Debug\CBusiness.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CBusiness.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CBusiness.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.Up2Date
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\obj\Debug\CBusiness.dll
+C:\Users\User\Desktop\Practicas Arquitectura Soft\Proyecto final Arq - Bank ATM - copia\BackOffice\CBusiness\obj\Debug\CBusiness.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CBusiness.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CBusiness.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CServices.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\CServices.pdb
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\obj\Debug\CBusiness.csproj.Up2Date
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\obj\Debug\CBusiness.dll
+C:\Users\User\Desktop\Proyecto-final-Arq---Bank-ATM---copia-master\BackOffice\CBusiness\obj\Debug\CBusiness.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll

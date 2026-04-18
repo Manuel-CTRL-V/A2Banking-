@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../BankCLR/BankCLR.csproj" Id="2ef69b12-daca-4ccb-9298-2e53bcdd7377" />
+  <Project Path="../Business/Business.csproj" />
+  <Project Path="../CapaEntidades/CapaEntidades.csproj" Id="a6dfb834-8d53-496c-8e1a-f60d909bc0e7" />
+  <Project Path="../DataAccess/DataAccess.csproj" />
+  <Project Path="BankAPI.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\User\Downloads\Proyecto-final-Arq---Bank-ATM---copia-master\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
